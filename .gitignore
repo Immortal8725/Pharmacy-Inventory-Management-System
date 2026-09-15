@@ -1,0 +1,11 @@
+build/
+data/
+dist/data/
+*.class
+.idea/
+*.iml
+.DS_Store
+agent-tools/
+/healthfirst_pims.jar
+/healthfirst_pims
+*.zip
